@@ -43,3 +43,9 @@ a,b, c are three  different variables but refers to a shared object which is int
 Immutable objects are the objects which are once created they cannot be modiffied
 
 
+# Python data Types
+-int
+-float
+-complex
+-bool
+-None
